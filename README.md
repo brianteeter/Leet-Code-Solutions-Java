@@ -1,4 +1,4 @@
-# leet-code-solutions-in-java
+# Leet-Code-Solutions-Java
 
 The purpose of this repo is to have a nice place where I can work on and share solutions to LeetCode problems using Java and Java tooling.  
 
@@ -9,6 +9,10 @@ I feel like LeetCode is not a terribly useful measure of a developer's ability. 
 ## Languages Used
 
 These are solved using Java, with JUnit for testing and maven for packaging/dependencies.
+
+I have another repo with solutions for problems in JavaScript located here:  https://github.com/brianteeter/Leet-Code-Solutions-JavaScript
+
+
 
 
 ## How to Use
